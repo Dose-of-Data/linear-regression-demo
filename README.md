@@ -18,7 +18,7 @@ To avoid conflicts with other Python projects on your system, it's a good idea t
 1. Activate the virtual environment by running the following command: `source env/bin/activate` (Note: On Windows, use env\Scripts\activate instead.)
 1. Install the necessary libraries by running the following command: `pip install -r requirements.txt`
 
-> ## Manually Install Libraries
+> ### Manually Install Libraries
 >
 > If you like, you should be able to install these packages manually using the following command:
 > 
