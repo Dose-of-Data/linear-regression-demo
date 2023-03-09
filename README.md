@@ -20,7 +20,7 @@ To avoid conflicts with other Python projects on your system, it's a good idea t
 
 > ### Manually Install Libraries
 >
-> If you like, you should be able to install these packages manually using the following command:
+> Alternatively, you can install these packages manually using the following command:
 > 
 > `pip install pandas scikit-learn jupyterlab matplotlib`
 
