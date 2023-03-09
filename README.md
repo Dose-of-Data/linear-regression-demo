@@ -14,7 +14,7 @@ To run this demo in JupyterLab, you'll need to have Python 3 and the following l
 To avoid conflicts with other Python projects on your system, it's a good idea to create a virtual environment for this demo. Here's how to set up a virtual environment, activate it, and install the necessary libraries:
 
 1. Open a terminal or command prompt and navigate to the directory where you've cloned the demo repository.
-1. Create a virtual environment by running the following command: `python3 -m venv env`
+1. Create a virtual environment by running the following command: `python3 -m venv demo`
 1. Activate the virtual environment by running the following command: `source env/bin/activate` (Note: On Windows, use env\Scripts\activate instead.)
 1. Install the necessary libraries by running the following command: `pip install -r requirements.txt`
 
